@@ -32,6 +32,8 @@ Suggested slide activity record:
 |---|---:|---|---|
 | 2026-08-23 | 1 hour | Planned the presentation slides and added project results. | Slides recorded in this file. | Complete |
 
+Presentation file: `Data_Scraping_Project.pptx` (10 slides).
+
 ## Documents
 
 Project report content:
