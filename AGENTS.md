@@ -15,9 +15,9 @@ This project was created from scratch by a beginner. The hours below are reasona
 
 Presentation content:
 
-- **Slide 1 - Title:** Data Scraping Project, author, and presentation date.
+- **Slide 1 - Title:** Data Scraping Project, Vaishnavi Padmawar, and presentation date 2026-08-23.
 - **Slide 2 - Objectives:** Collect website data, parse HTML, and save clean CSV files.
-- **Slide 3 - Technologies:** Python, `requests`, `BeautifulSoup`, and `pandas`.
+- **Slide 3 - Technologies Used:** Four equal rounded shapes in a 2x2 layout: Python, `requests`, `BeautifulSoup`, and `pandas`. Each shape is 5.7 x 2.2 inches and all shapes are inside the slide boundaries.
 - **Slide 4 - Quote scraper:** Quotes to Scrape; quote and author; output `quotes.csv`.
 - **Slide 5 - Book scraper:** Books to Scrape; title, price, rating, availability, and URL; output `book_scraper/book_scraper.csv`.
 - **Slide 6 - E-commerce scraper:** Webscraper.io test site; product, price, and description; output `ecommerce_scrapper/products.csv`.
@@ -32,7 +32,7 @@ Suggested slide activity record:
 |---|---:|---|---|
 | 2026-08-23 | 1 hour | Planned the presentation slides and added project results. | Slides recorded in this file. | Complete |
 
-Presentation file: `Data_Scraping_Project.pptx` (10 slides).
+All presentation content is recorded in this file; no separate presentation file is required.
 
 ## Documents
 
@@ -47,7 +47,7 @@ Project report content:
 - Testing or validation performed.
 - Limitations, ethical considerations, and future improvements.
 - **Title:** Data Scraping Project.
-- **Author:** [Your name].
+- **Author:** Vaishnavi Padmawar.
 - **Date:** 2026-08-23.
 - **Version:** 1.0.
 - **Introduction:** This project uses Python to collect structured information from practice websites and save the results as CSV files.
