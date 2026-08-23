@@ -32,7 +32,7 @@ Suggested slide activity record:
 |---|---:|---|---|
 | 2026-08-23 | 1 hour | Planned the presentation slides and added project results. | Slides recorded in this file. | Complete |
 
-The actual presentation is saved separately as [Data_Scraping_Project.pptx](Data_Scraping_Project.pptx). Markdown cannot contain an editable PowerPoint file inside the text document.
+The complete presentation content is recorded in this file. No separate presentation file is kept.
 
 ## Documents
 
