@@ -32,7 +32,7 @@ Suggested slide activity record:
 |---|---:|---|---|
 | 2026-08-23 | 1 hour | Planned the presentation slides and added project results. | Slides recorded in this file. | Complete |
 
-All presentation content is recorded in this file; no separate presentation file is required.
+The actual presentation is saved as `Data_Scraping_Project.pptx`.
 
 ## Documents
 
