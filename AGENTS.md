@@ -13,26 +13,28 @@ This project was created from scratch by a beginner. The hours below are reasona
 
 ## Slides
 
-When creating presentation slides, include:
+Presentation content:
 
-- Project title, author, and presentation date.
-- Problem statement and project objectives.
-- Websites and data fields collected.
-- Tools used: Python, `requests`, `BeautifulSoup`, and `pandas`.
-- A short explanation of each scraper's workflow.
-- Screenshots or sample rows from each generated CSV file.
-- Results, challenges, and possible improvements.
-- A final summary of the work completed and total hours spent.
+- **Slide 1 - Title:** Data Scraping Project, author, and presentation date.
+- **Slide 2 - Objectives:** Collect website data, parse HTML, and save clean CSV files.
+- **Slide 3 - Technologies:** Python, `requests`, `BeautifulSoup`, and `pandas`.
+- **Slide 4 - Quote scraper:** Quotes to Scrape; quote and author; output `quotes.csv`.
+- **Slide 5 - Book scraper:** Books to Scrape; title, price, rating, availability, and URL; output `book_scraper/book_scraper.csv`.
+- **Slide 6 - E-commerce scraper:** Webscraper.io test site; product, price, and description; output `ecommerce_scrapper/products.csv`.
+- **Slide 7 - Workflow:** Request the page, parse HTML, select fields, build records, and export CSV.
+- **Slide 8 - Results:** Show screenshots or sample rows from each CSV file.
+- **Slide 9 - Improvements:** Add error handling, pagination, timeouts, and automated tests.
+- **Slide 10 - Summary:** Explain the completed work and total hours.
 
 Suggested slide activity record:
 
 | Date | Hours | Slides completed | Notes |
 |---|---:|---|---|
-| 2026-08-23 | 1 hour | Planned the presentation slides and added project results. | `PRESENTATION_OUTLINE.md` | Complete |
+| 2026-08-23 | 1 hour | Planned the presentation slides and added project results. | Slides recorded in this file. | Complete |
 
 ## Documents
 
-When creating project documents or reports, include:
+Project report content:
 
 - Project title, author, date, and version.
 - Introduction, objectives, and scope.
@@ -42,18 +44,29 @@ When creating project documents or reports, include:
 - Output file names and sample results.
 - Testing or validation performed.
 - Limitations, ethical considerations, and future improvements.
-- A dated work log with hours and completed tasks.
+- **Title:** Data Scraping Project.
+- **Author:** [Your name].
+- **Date:** 2026-08-23.
+- **Version:** 1.0.
+- **Introduction:** This project uses Python to collect structured information from practice websites and save the results as CSV files.
+- **Objectives:** Extract quotes, book details, and e-commerce product details, then store them in CSV files.
+- **Implementation:** Each scraper sends an HTTP request, parses HTML, selects the required fields, creates records, and writes them with pandas.
+- **Validation:** Scripts print a website status or completion message and confirm that data was saved.
+- **Limitations:** Add error handling, timeouts, pagination, and automated tests in future work. Respect website terms and rate limits.
 
-Current project documents:
+Actual results:
 
-- `PROJECT_REPORT.md` - project report with implementation details and work log.
-- `PRESENTATION_OUTLINE.md` - slide-by-slide presentation content and work log.
+| Output file | Records | Sample |
+|---|---:|---|
+| `quotes.csv` | 10 | Quote by Albert Einstein |
+| `book_scraper/book_scraper.csv` | 20 | A Light in the Attic, £51.77, Three, In stock |
+| `ecommerce_scrapper/products.csv` | 3 | Asus ROG STRIX GL553VD-DM256, $899 |
 
 Suggested document activity record:
 
 | Date | Hours | Document section completed | Notes |
 |---|---:|---|---|
-| 2026-08-23 | 1 hour | Prepared the project report with results and work log. | `PROJECT_REPORT.md` | Complete |
+| 2026-08-23 | 1 hour | Prepared the project report with results and work log. | Report recorded in this file. | Complete |
 
 ## Install dependencies
 
